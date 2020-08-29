@@ -1,0 +1,12 @@
+{
+
+  "DDAC_DB" :
+  {
+    "input" : "C:\\Users\\mishr\\PycharmProjects\\untitled\\input",
+    "output" : "C:\\Users\\mishr\\PycharmProjects\\untitled\\output",
+    "data_column_name": "Date",
+    "current_date" : "20200611",
+    "previous_date" : "20200610"
+
+  }
+}
